@@ -31,7 +31,8 @@ public class Bubblesort {
 	 
 	    for (c = 0; c < n; c++)
 	      System.out.println(array[c]);
-	    System.out.println(array[c]);
+	    System.out.println();
+	    
 	  }
 	
 		// TODO Auto-generated method stub
