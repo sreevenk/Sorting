@@ -11,6 +11,7 @@ public class Bubblesort {
 	    int array[] = new int[n];
 	 
 	    System.out.println("Enter " + n + " integers");
+	    System.out.println("hello");
 	 
 	    for (c = 0; c < n; c++)
 	      array[c] = in.nextInt();
